@@ -1,7 +1,7 @@
 # Promblem - remove linked list element 
 # Appraoch - linked list traversal + dummy LL
 # Time and space complexity - 0(n) & 0(1)
-# Leetcode and diffculty level - 203 & easy 
+# Leetcode and diffculty level - 203 & Easy 
 class Solution {
 public:
 
