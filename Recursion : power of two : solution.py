@@ -1,1 +1,12 @@
-
+# Promblem - power of two 
+# Time and space complexity - 0(1) & 0(1) 
+# Leetcode and diffculty level - 231 & easy 
+class Solution {
+public:
+    bool isPowerOfTwo(int n) {
+        if(n <= 0) {
+            return false;
+        }
+        return (n & (n - 1)) == 0;
+    }
+};
