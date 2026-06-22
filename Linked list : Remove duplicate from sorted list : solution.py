@@ -1,4 +1,4 @@
-# Promblem - remove duplicate from sorted list 
+# Promblem - Remove duplicate from sorted list 
 # Appraoch - Two pointers 
 # Time and space complexity - 0(n) & 0(1)
 # Leetcode and diffculty level - 83 & easy
